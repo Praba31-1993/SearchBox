@@ -1,0 +1,8 @@
+Functionality Steps:
+
+Step 1. When we type the URL in the input box and enter it open the following Website. (completed)
+Step 2. URL run in the new Tab always.(completed)
+Step 3. At the same time, we need to store the URL in the Array or Mango DB.
+Step 4. When we type the same URL in the input box, it automatically display the following letter Website(like autocomplete)
+
+
